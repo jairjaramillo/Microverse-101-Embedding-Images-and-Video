@@ -80,6 +80,16 @@ iframe{
   color:red;
 }
 
+.views {
+  float:right;
+}
+
+.anotherViews {
+  font-size: 12px;
+  text-align: left;
+  color:gray;
+}
+
 .avatarImg img {
   float: left;
   border-radius: 50%;
