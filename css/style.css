@@ -10,24 +10,32 @@ body {
 .header {
   overflow: hidden;
   width: 100%;
+  padding: 7px 0px 10px;
 }
 
 .logo {
   float: left;
+  width: 15%;
+}
+
+.signIn {
+  float:right;
+  width: 10%;
 }
 
 .search-bar {
-  position: relative;
-  padding: 7px 10px;
+  align-content: center;
+  /* position: relative; */
+  /* padding: 7px 0px 10px; */
 }
 
 .search-bar input{
-  display: block;
-  padding-top: 1px;
+  padding-top: 2px 0px 2px;
   font-size: 17px;
   text-align: center;
-  height: auto;
+  /* height: auto; */
   outline: none;
+  width: 70%;
 }
 
 .column1 {
