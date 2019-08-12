@@ -1,12 +1,30 @@
 .header {
-  overflow: hidden;
+  /* overflow: hidden; */
+  width: 100%;
 }
 
-.column {
-  float: left;
+serach-bar{
+  position: relative;
+  /* float: left; */
+  padding: 7px 10px;
+}
+
+.serach-bar input{
+  display: inline-block;
+  padding-top: 1px;
+}
+
+.col {
+  float:left;
   width: 50%;
   padding: 15px;
+  color: blue;
 }
+.col2{
+  float: right;
+  color: black;
+}
+
 
 .searching{
   background-color: antiquewhite
@@ -17,9 +35,9 @@
 }
 
 
-.videoPrincipal{
-  width:560;
-  height:315;
+iframe{
+  width:100%;
+  height:500px;
   color: red;
 }
 
