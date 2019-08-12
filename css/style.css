@@ -1,3 +1,13 @@
+.header {
+  overflow: hidden;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 15px;
+}
+
 .searching{
   background-color: antiquewhite
 }
