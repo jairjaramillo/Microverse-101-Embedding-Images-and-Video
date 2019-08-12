@@ -1,15 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
 .header {
-  /* overflow: hidden; */
+  overflow: hidden;
   width: 100%;
 }
 
-serach-bar{
+.logo {
+  float: left;
+}
+
+.search-bar {
   position: relative;
-  /* float: left; */
+  /* float: right; */
   padding: 7px 10px;
 }
 
-.serach-bar input{
+.search-bar input{
   display: inline-block;
   padding-top: 1px;
 }
@@ -27,7 +40,7 @@ serach-bar{
 
 
 .searching{
-  background-color: antiquewhite
+  background-color: antiquewhite;
 }
 
 .video{
