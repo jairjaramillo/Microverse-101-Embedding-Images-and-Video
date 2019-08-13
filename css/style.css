@@ -59,6 +59,10 @@ body {
   border: 4px;
 }
 
+.subs {
+  float:left;
+}
+
 .thumbnail {
   float: left;
 }
