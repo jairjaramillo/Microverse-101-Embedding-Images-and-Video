@@ -1,5 +1,15 @@
-# Project: Embedding Images and Video
- This project consists of building an HTML document that matches the appearance of youtube video player page.
- This is a version old of template youtube.
- 
- You can see this page here <a href="https://digomes87.github.io/CloneYoutbe/">Youtube Clone</a>
+# Microverse 101: Embedding Images and Video
+This is the 1st project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/)
+
+>The New York Times has been a leader in experimenting with the inclusion of multimedia content in traditional stories. That creates all kinds of interesting position questions.
+
+>In this project, your assignment is to copy this article from the New York Times(open in an “incognito” window without cookies to view it if you’re over your monthly limit). Notice how the section titled “The Theory of Inflation” (you may need to widen your viewing window for it to show up) is laid out.
+
+* #### [Assignment description](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)
+* #### [Our final result](https://jairjaramillo.github.io/Microverse-101-Embedding-Images-and-Video/)
+* #### [Source page](http://archive.today/Bss88)
+
+Contributors:
+
+* Diego Gomes: [@digomes87](https://github.com/digomes87)
+* Jair Jaramillo: [@jairjaramillo](https://github.com/jairjaramillo)
