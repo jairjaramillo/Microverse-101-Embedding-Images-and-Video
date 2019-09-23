@@ -6,10 +6,10 @@ This is the 1st project of the Main HTML/CSS curriculum at [Microverse](https://
 >In this project, your assignment is to copy this article from the New York Times(open in an “incognito” window without cookies to view it if you’re over your monthly limit). Notice how the section titled “The Theory of Inflation” (you may need to widen your viewing window for it to show up) is laid out.
 
 * #### [Assignment description](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)
-* #### [Our final result](https://jairjaramillo.github.io/Microverse-101-Embedding-Images-and-Video/)
+* #### [Our final result](https://jairjy.github.io/Microverse-101-Embedding-Images-and-Video/)
 * #### [Source page](http://archive.today/Bss88)
 
 Contributors:
 
 * Diego Gomes: [@digomes87](https://github.com/digomes87)
-* Jair Jaramillo: [@jairjaramillo](https://github.com/jairjaramillo)
+* Jair Jaramillo: [@jairjy](https://github.com/jairjy)
